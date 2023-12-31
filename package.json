@@ -1,0 +1,15 @@
+{
+  "name": "isla-bot",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Muhamad Ikbal Maulana | ItsReimau",
+  "license": "ISC",
+  "dependencies": {
+    "@aidulcandra/simple-wa-bot": "^1.0.0",
+    "cfonts": "^3.2.0"
+  }
+}
